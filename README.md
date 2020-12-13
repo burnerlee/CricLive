@@ -6,7 +6,7 @@ Imagine there is an Ind vs Aus match going on and you are not at your home, but 
 Fret not. CricLive VR comes to your rescue. A platform for cricket lovers to watch live cricket anywhere, anytime, with a good or poor internet connection completely free. CricLive is based on a really unique mechanism to generate live streaming of the cricket match. It scrapes text commentary from the web, feeds it to an indigenously trained ML model, which estimates what exactly happened that delivery and provides the output to the user end platform developed on Unity, which replicates the incident actually taking place on the real field virtually using models, animations and algorithms. What’s more? CricLive supports VR technology and allows you to get into action and be one of the players/umpires on the field or view the match as a spectator sitting in a real stadium.
 
 Here is the link to the zip file of the Project Directory:
-https://drive.google.com/file/d/1YKp_n2agyduhaZjvvV2DQJjh1-xBICaf/view
+https://drive.google.com/file/d/1uCOwQED9-d2lzdgSrI_OTcMsqczk-Sm7/view
 
 This Project was developed on Unity Game Engine using Unity Collaborate:
 ![Image 1](./Images/img1.png)
