@@ -23,7 +23,7 @@ CricLive needs as low internet as it takes to send a WhatsApp message. With offl
 5. UI supporting different screen resolutions. (canvas, scoreboard).
 
 Here is the link to the zip file of the Project Directory:
-https://drive.google.com/file/d/1uCOwQED9-d2lzdgSrI_OTcMsqczk-Sm7/view
+https://drive.google.com/file/d/1JtrrAw7CM5YxQCg7S_xmU3Kx-PExMech/view?usp=sharing
 
 This Project was developed on Unity Game Engine using Unity Collaborate:
 ![Image 1](./Images/img1.png)
