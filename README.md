@@ -1,9 +1,26 @@
 # CricLive
-Cricket anytime anywhere
+Anytime Anywhere
 ![Image 5](./Images/img5.png)
-Imagine there is an Ind vs Aus match going on and you are not at your home, but you desperately want to watch it. You quickly open up Hotstar to watch its live streaming, but, alas! The 15 minutes of trial time is over. You take your credit card, pay for the subscription, and continue watching it again. But your luck is hard! You don’t have a good internet connection. What do you do? You visit live cricket score websites and read through the commentary of each ball imagining what would be happening on the field.
 
-Fret not. CricLive VR comes to your rescue. A platform for cricket lovers to watch live cricket anywhere, anytime, with a good or poor internet connection completely free. CricLive is based on a really unique mechanism to generate live streaming of the cricket match. It scrapes text commentary from the web, feeds it to an indigenously trained ML model, which estimates what exactly happened that delivery and provides the output to the user end platform developed on Unity, which replicates the incident actually taking place on the real field virtually using models, animations and algorithms. What’s more? CricLive supports VR technology and allows you to get into action and be one of the players/umpires on the field or view the match as a spectator sitting in a real stadium.
+Tired of shelling out cash for your favourite game? Or reading the mundane commentary? *CricLive* is based on a revolutionary mechanism to recreate a cricket match from text commentary.
+Our app grabs live text-commentary from its servers and use it alone to generate a live match on your device using *AI* along with features such as *audio commentary*, *scintillating animations*, and *dynamic ground sounds* all rendered offline without any data usage.
+Driven by AI, CricLive animates most actions in cricket matches fairly accurately. What’s more? CricLive, with dual modes 3D and VR, lets you experience cricket like never before. The VR mode makes it possible to roam on-field freely and watch the match from multiple perspectives.
+CricLive needs as low internet as it takes to send a WhatsApp message. With offline animations, it ensures smooth streaming even at slow internet speeds or with unstable connections. CricLive, developed on Unity3D game engine, is compatible across all major platforms including Windows, Android, iOS.
+
+## Features:
+1. Text-to-Action Technology
+2. Live Matches
+3. Minimal Internet Usage
+4. Dynamic AI
+5. Two Modes: VR & 3D
+6. Cross-Platform
+
+## Challenges we ran into
+1. There were no free assets available- models and animations, thus we had to develop them from scratch using a blender, which was very time-consuming.
+2. Implementing algorithms for the movement of fielders to generate the required results.
+3. Timing animations for wicketkeeper and other game components.
+4. Deploying microservices of WebSocket server and the native implementation of WebSocket client in Unity(C# script) using socket programming principles proved to be quite challenging.
+5. UI supporting different screen resolutions. (canvas, scoreboard).
 
 Here is the link to the zip file of the Project Directory:
 https://drive.google.com/file/d/1uCOwQED9-d2lzdgSrI_OTcMsqczk-Sm7/view
