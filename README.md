@@ -26,7 +26,9 @@ Here is the link to the zip file of the Project Directory: (The project repo cou
 https://drive.google.com/file/d/1JtrrAw7CM5YxQCg7S_xmU3Kx-PExMech/view?usp=sharing
 
 This Project was developed on Unity Game Engine using Unity Collaborate:
+
 Send us an email at avi.aviral140@gmail.com or h3llix.pvt@gmail.com to get added to our Unity team to see our Collaboration Commits.
+
 ![Image 1](./Images/img1.png)
 ![Image 2](./Images/img2.png)
 ![Image 3](./Images/img3.png)
