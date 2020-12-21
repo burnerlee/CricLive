@@ -1,5 +1,5 @@
 # CricLive
-Cricket anytime anywhere
+Anytime Anywhere
 ![Image 5](./Images/img5.png)
 
 Tired of shelling out cash for your favourite game? Or reading the mundane commentary? *CricLive* is based on a revolutionary mechanism to recreate a cricket match from text commentary.
