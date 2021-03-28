@@ -26,11 +26,11 @@ CricLive needs as low internet as it takes to send a WhatsApp message. With offl
 https://drive.google.com/file/d/1JtrrAw7CM5YxQCg7S_xmU3Kx-PExMech/view?usp=sharing
 
 ## Team Members
-Aryaman Behera
-Aviral Jain
-Gaurav Genani
-Mahak Gupta
-Shreyaa Sharma
+1. Aryaman Behera  
+2. Aviral Jain  
+3. Gaurav Genani  
+4. Mahak Gupta  
+5. Shreyaa Sharma  
 
 This Project was developed on Unity Game Engine using Unity Collaborate:
 ![Image 1](./Images/img1.png)
