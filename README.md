@@ -22,8 +22,15 @@ CricLive needs as low internet as it takes to send a WhatsApp message. With offl
 4. Deploying microservices of WebSocket server and the native implementation of WebSocket client in Unity(C# script) using socket programming principles proved to be quite challenging.
 5. UI supporting different screen resolutions. (canvas, scoreboard).
 
-Here is the link to the zip file of the Project Directory:
+**Here is the link to the zip file of the Project Directory:**
 https://drive.google.com/file/d/1JtrrAw7CM5YxQCg7S_xmU3Kx-PExMech/view?usp=sharing
+
+## Team Members
+Aryaman Behera
+Aviral Jain
+Gaurav Genani
+Mahak Gupta
+Shreyaa Sharma
 
 This Project was developed on Unity Game Engine using Unity Collaborate:
 ![Image 1](./Images/img1.png)
