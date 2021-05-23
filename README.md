@@ -1,5 +1,5 @@
 # CricLive
-Anytime Anywhere
+Cricket Anytime Anywhere
 ![Image 5](./Images/img5.png)
 
 Tired of shelling out cash for your favourite game? Or reading the mundane commentary? *CricLive* is based on a revolutionary mechanism to recreate a cricket match from text commentary.
@@ -7,6 +7,7 @@ Our app grabs live text-commentary from its servers and use it alone to generate
 Driven by AI, CricLive animates most actions in cricket matches fairly accurately. What’s more? CricLive, with dual modes 3D and VR, lets you experience cricket like never before. The VR mode makes it possible to roam on-field freely and watch the match from multiple perspectives.
 CricLive needs as low internet as it takes to send a WhatsApp message. With offline animations, it ensures smooth streaming even at slow internet speeds or with unstable connections. CricLive, developed on Unity3D game engine, is compatible across all major platforms including Windows, Android, iOS.
 
+You can view the demo video [here](https://www.youtube.com/watch?v=V7XrxsXvucQ)
 ## Features:
 1. Text-to-Action Technology
 2. Live Matches
